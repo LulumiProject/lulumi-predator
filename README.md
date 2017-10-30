@@ -1,6 +1,6 @@
 # Lulumi-predator
 
-> Lulumi-predator is a hackable "Swiss Army Knife” framework for the 21st century.
+> Lulumi-predator is a hackable "Swiss Army Knife” security framework for the 21st century.
 
 <p align="center">
   <img alt="Lulumi-predator" src="https://i.imgur.com/HsYWmOC.png" width="700px">
